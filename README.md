@@ -1,7 +1,5 @@
 Author: Shazin
 
-Currently available for hire. Please contact shazin.rr@gmail.com  
-
 Description: This webpage is about my story in how I transitioned into web development as a career path, as well, 
 as a brief background summary of my education and various skillsets. 
 
